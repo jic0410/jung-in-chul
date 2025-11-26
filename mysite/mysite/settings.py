@@ -27,6 +27,8 @@ INSTALLED_APPS = [
 
     "corsheaders",   # ★ React 연동용
     "chatapp",
+    "rest_framework",
+    "sensor",
 ]
 
 MIDDLEWARE = [
